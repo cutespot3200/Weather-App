@@ -83,3 +83,11 @@ a:hover {
   position: relative;
   top: -34px;
 }
+
+.repo {
+  text-align: center;
+  text-decoration: none;
+  color: #dadbdd;
+
+  
+}
